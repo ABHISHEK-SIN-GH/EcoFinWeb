@@ -1,6 +1,5 @@
 asgiref==3.5.1
 autopep8==1.6.0
-ceic-api-client==2.8.12.234
 certifi==2021.10.8
 charset-normalizer==2.0.12
 dj-database-url==0.5.0
